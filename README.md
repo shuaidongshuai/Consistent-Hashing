@@ -1,7 +1,5 @@
-# Consistent-Hashing
-下载解压后直接根目录make
-然后就可以执行了
-./conHash
+下载解压后直接根目录make然后就可以执行了./conHash<br>
+`要加入到你的项目中，把src下面的东西copy进你的项目中就好了`
 
 利用C++和STL库实现了一致性Hash算法
 ===
