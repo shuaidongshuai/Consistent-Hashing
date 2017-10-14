@@ -2,7 +2,7 @@
 #include <vector>
 #include <cstring>
 #include <algorithm>
-#include "src/ConsistentHash.h"
+#include "../src/ConsistentHash.h"
 
 void printError(){
 	std::cout << "input error !" << std::endl;
