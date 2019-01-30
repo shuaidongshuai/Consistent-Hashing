@@ -15,13 +15,5 @@
 --
 hash函数我用了MD5，你也可以传进去一个自己的hash函数，我也提供了响应的接口去检查你的hash函数是否合理
 
-下面是功能截图
---
-![dong](http://img.blog.csdn.net/20171002161535903?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-![dong2](http://img.blog.csdn.net/20171002162351095?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-![dong2](http://img.blog.csdn.net/20171002162518565?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-![dong2](http://img.blog.csdn.net/20171002162745093?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+https://blog.csdn.net/PROGRAM_anywhere/article/details/78151472
 
